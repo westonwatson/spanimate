@@ -1,24 +1,24 @@
 #Spanimate.css
-*Pure CSS animation*
+*Pure CSS animations with a jQuery Helper Plugin for ease of use.*
 
 ##Usage
-To use spanimate.css in your website, simply drop the stylesheet into your document's `<head>`, and add the class `spanimate` to an element, along with any of the animation names. That's it! You've got a CSS animated element. Sweet!
-
-You can do a whole bunch of other stuff with spanimate.css when you combine it with jQuery or add your own CSS rules. Dynamically add animations using jQuery with ease:
 
 ```javascript
-$('#yourElement').addClass('spanimate bounceOutLeft');
+$('#targetId').spanimate('flash');
+//or
+$('#targetId')._flash();
 ```
 
-You can change the duration of your animations, add a delay or change the number of times that it plays!
+Modify Settings like Duration, Delay, Iteration.
 
-```css
-#yourElement {
-	-vendor-animation-duration: 3s;
-	-vendor-animation-delay: 2s;
-	-vendor-animation-iteration-count: infinite;
-}
+```javascript
+$.spanimate('settings',{
+	'duration' : '3s',
+	'delay': '2s',
+	'iteration': 'infinite'
+});
 ```
+
 ##Cheat Sheet
 
 ####Attention seekers:
