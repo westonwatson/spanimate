@@ -1,25 +1,6 @@
-#Spanimate.css
 *Pure CSS animations*
 
-##Usage
-
-```javascript
-$('#targetId').spanimate('flash');
-//or
-$('#targetId')._flash();
-```
-
-Modify Settings like Duration, Delay, Iteration.
-
-```javascript
-$.spanimate('settings',{
-	'duration' : '3s',
-	'delay': '2s',
-	'iteration': 'infinite'
-});
-```
-
-##Cheat Sheet
+#Classes
 
 ####Attention seekers:
 flash
