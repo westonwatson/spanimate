@@ -1,5 +1,5 @@
 #Spanimate.css
-*Pure CSS animations with a jQuery Helper Plugin for ease of use.*
+*Pure CSS animations*
 
 ##Usage
 
