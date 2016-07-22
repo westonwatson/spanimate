@@ -3,77 +3,77 @@
 #Classes
 
 ####Attention seekers:
-flash
-bounce
-shake
-tada
-swing
-wobble
-wiggle
-pulse
+- flash
+- bounce
+- shake
+- tada
+- swing
+- wobble
+- wiggle
+- pulse
 
 ####Flippers (currently Webkit, Firefox, &amp; IE10 only):
-flip
-flipInX
-flipOutX
-flipInY
-flipOutY
+- flip
+- flipInX
+- flipOutX
+- flipInY
+- flipOutY
 
 ####Fading entrances:
-fadeIn
-fadeInUp
-fadeInDown
-fadeInLeft
-fadeInRight
-fadeInUpBig
-fadeInDownBig
-fadeInLeftBig
-fadeInRightBig
+- fadeIn
+- fadeInUp
+- fadeInDown
+- fadeInLeft
+- fadeInRight
+- fadeInUpBig
+- fadeInDownBig
+- fadeInLeftBig
+- fadeInRightBig
 
 ####Fading exits:
-fadeOut
-fadeOutUp
-fadeOutDown
-fadeOutLeft
-fadeOutRight
-fadeOutUpBig
-fadeOutDownBig
-fadeOutLeftBig
-fadeOutRightBig
+- fadeOut
+- fadeOutUp
+- fadeOutDown
+- fadeOutLeft
+- fadeOutRight
+- fadeOutUpBig
+- fadeOutDownBig
+- fadeOutLeftBig
+- fadeOutRightBig
 
 ####Bouncing entrances:
-bounceIn
-bounceInDown
-bounceInUp
-bounceInLeft
-bounceInRight
+- bounceIn
+- bounceInDown
+- bounceInUp
+- bounceInLeft
+- bounceInRight
 
 ####Bouncing exits:
-bounceOut
-bounceOutDown
-bounceOutUp
-bounceOutLeft
-bounceOutRight
+- bounceOut
+- bounceOutDown
+- bounceOutUp
+- bounceOutLeft
+- bounceOutRight
 
 ####Rotating entrances:
-rotateIn
-rotateInDownLeft
-rotateInDownRight
-rotateInUpLeft
-rotateInUpRight
+- rotateIn
+- rotateInDownLeft
+- rotateInDownRight
+- rotateInUpLeft
+- rotateInUpRight
 
 ####Rotating exits:
-rotateOut
-rotateOutDownLeft
-rotateOutDownRight
-rotateOutUpLeft
-rotateOutUpRight
+- rotateOut
+- rotateOutDownLeft
+- rotateOutDownRight
+- rotateOutUpLeft
+- rotateOutUpRight
 
 ####Lightspeed:
-lightSpeedIn
-lightSpeedOut
+- lightSpeedIn
+- lightSpeedOut
 
 ####Specials:
-hinge
-rollIn
-rollOut
+- hinge
+- rollIn
+- rollOut
