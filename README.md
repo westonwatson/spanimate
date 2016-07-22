@@ -1,6 +1,6 @@
-*Pure CSS animations*
+# **Pure CSS animations**
 
-#Classes
+### ***Classes***
 
 ####Attention seekers:
 - flash
