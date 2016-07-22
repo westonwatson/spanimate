@@ -4,11 +4,10 @@
   \__ \/ __ \/ __ `/ __ \/ / __ `__ \/ __ `/ __/ _ \
  ___/ / /_/ / /_/ / / / / / / / / / / /_/ / /_/  __/
 /____/ .___/\__,_/_/ /_/_/_/ /_/ /_/\__,_/\__/\___/ 
-    /_/   http://git.com/westonwatson/spanimate
+    /_/   http://github.com/westonwatson/spanimate
 */
 
 body { 
-	/* Webkit-Hack: http://bit.ly/NEdoDq */
 	-webkit-backface-visibility: hidden;
 }
 .spanimate {
