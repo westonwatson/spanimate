@@ -2,7 +2,7 @@
 
 ### ***Classes***
 
-####Attention seekers:
+#### Attention seekers:
 - flash
 - bounce
 - shake
@@ -12,14 +12,14 @@
 - wiggle
 - pulse
 
-####Flippers (currently Webkit, Firefox, &amp; IE10 only):
+#### Flippers (currently Webkit, Firefox, &amp; IE10 only):
 - flip
 - flipInX
 - flipOutX
 - flipInY
 - flipOutY
 
-####Fading entrances:
+#### Fading entrances:
 - fadeIn
 - fadeInUp
 - fadeInDown
@@ -30,7 +30,7 @@
 - fadeInLeftBig
 - fadeInRightBig
 
-####Fading exits:
+#### Fading exits:
 - fadeOut
 - fadeOutUp
 - fadeOutDown
@@ -41,39 +41,39 @@
 - fadeOutLeftBig
 - fadeOutRightBig
 
-####Bouncing entrances:
+#### Bouncing entrances:
 - bounceIn
 - bounceInDown
 - bounceInUp
 - bounceInLeft
 - bounceInRight
 
-####Bouncing exits:
+#### Bouncing exits:
 - bounceOut
 - bounceOutDown
 - bounceOutUp
 - bounceOutLeft
 - bounceOutRight
 
-####Rotating entrances:
+#### Rotating entrances:
 - rotateIn
 - rotateInDownLeft
 - rotateInDownRight
 - rotateInUpLeft
 - rotateInUpRight
 
-####Rotating exits:
+#### Rotating exits:
 - rotateOut
 - rotateOutDownLeft
 - rotateOutDownRight
 - rotateOutUpLeft
 - rotateOutUpRight
 
-####Lightspeed:
+#### Lightspeed:
 - lightSpeedIn
 - lightSpeedOut
 
-####Specials:
+#### Specials:
 - hinge
 - rollIn
 - rollOut
